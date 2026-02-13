@@ -24,6 +24,7 @@
 
 # print(brand_name+ " "+pet_name)
 
+
 #
 print("Hello welcome to the brand game name generator")
 ex_name=input("entre your ex name")
